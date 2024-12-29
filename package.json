@@ -7,9 +7,9 @@
   "main": "lib/vueCronWx.common.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:wxGoldking/cron-main"
   },
-  "homepage": "",
+  "homepage": "https://github.com/wxGoldking/cron-main/tree/main/dist",
   "keywords": [
     "cron",
     "vue",
